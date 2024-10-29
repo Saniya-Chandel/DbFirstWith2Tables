@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DbFirstWith2TablesProCat.props" />
+</Project>

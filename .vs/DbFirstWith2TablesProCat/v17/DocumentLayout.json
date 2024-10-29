@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|e:\\mvc project\\dbfirstwith2tablesprocat\\dbfirstwith2tablesprocat\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|solutionrelative:dbfirstwith2tablesprocat\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|e:\\mvc project\\dbfirstwith2tablesprocat\\dbfirstwith2tablesprocat\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|solutionrelative:dbfirstwith2tablesprocat\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|e:\\mvc project\\dbfirstwith2tablesprocat\\dbfirstwith2tablesprocat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|solutionrelative:dbfirstwith2tablesprocat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|e:\\mvc project\\dbfirstwith2tablesprocat\\dbfirstwith2tablesprocat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5224744-2CA2-4C7A-AF5D-E26A4EF3525F}|DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat.csproj|solutionrelative:dbfirstwith2tablesprocat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DbFirstWith2TablesProCat\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DbFirstWith2TablesProCat\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:14:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DbFirstWith2TablesProCat\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DbFirstWith2TablesProCat\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:13:52.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstWith2TablesProCat\\Program.cs",
+              "ToolTip": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Program.cs",
+              "RelativeToolTip": "DbFirstWith2TablesProCat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:10:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProCatDbContext.cs",
+              "DocumentMoniker": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs",
+              "RelativeDocumentMoniker": "DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs",
+              "ToolTip": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs",
+              "RelativeToolTip": "DbFirstWith2TablesProCat\\Models\\ProCatDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:10:16.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\appsettings.json",
+              "RelativeDocumentMoniker": "DbFirstWith2TablesProCat\\appsettings.json",
+              "ToolTip": "E:\\MVC PROJECT\\DbFirstWith2TablesProCat\\DbFirstWith2TablesProCat\\appsettings.json",
+              "RelativeToolTip": "DbFirstWith2TablesProCat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T09:03:25.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
